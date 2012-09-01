@@ -1,0 +1,248 @@
+Name,Level,is_moddable,disableworldgencreate,is_draggable,destroyable,constructtype,isitem,doesdamage,doesheal,isai,ismonster,aifuncname,aiextrastring,combineresulttype
+jicama,3,1,0,1,1,,1,0,1,0,0,,viewdistance=10|speed=291,Tambo
+jackfruit,4,1,0,1,1,,1,0,1,0,0,,viewdistance=7|speed=471,Kama
+hazelnut,5,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=7|speed=383,Nunchaku
+mung bean,1,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=6|speed=419,pistachio
+mucuma,3,1,0,1,1,,1,0,1,0,0,,viewdistance=13|speed=459,Brass knuckles
+medlar,1,1,0,1,1,,1,0,1,0,0,,viewdistance=5|speed=438,Xiphos
+coconut,1,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=3|speed=374,Falchion
+chestnut,2,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=3|speed=283,Morning star
+cherry,4,1,0,1,1,,1,0,1,0,0,,viewdistance=10|speed=462,Valaska
+fig,1,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=7|speed=458,Meteor Hammer
+ensete,1,1,0,1,1,,1,0,1,0,0,,viewdistance=4|speed=305,coconut
+durian,1,1,0,1,1,,1,0,1,0,0,,viewdistance=6|speed=471,Shamshir
+quince,4,1,0,1,1,,1,0,1,0,0,,viewdistance=11|speed=470,Halberd
+plum,3,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=7|speed=274,Dagger
+pistachio,1,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=4|speed=277,Pike
+walnut,3,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=8|speed=410,Javelin
+turnip,3,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=6|speed=370,walnut
+radish,2,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=7|speed=409,Claymore
+parsnip,5,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=11|speed=406,hazelnut
+papaya,1,1,0,1,1,,1,0,1,0,0,,viewdistance=6|speed=282,Pata
+olive,4,1,0,1,1,,1,0,1,0,0,,viewdistance=7|speed=355,Scimitar
+pecan,4,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=11|speed=360,pea
+pea,4,1,0,1,1,,1,0,1,0,0,,viewdistance=5|speed=498,Taiaha
+pear,5,1,0,1,1,,1,0,1,0,0,,viewdistance=9|speed=470,Schiavona
+beet,2,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=8|speed=267,Mace
+carrot,5,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=8|speed=486,loquat
+asian pear,2,1,0,1,1,,1,0,1,0,0,,viewdistance=8|speed=434,Long-bearded axe
+almond,5,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=5|speed=426,parsnip
+banana,4,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=7|speed=487,Rapier
+breadfruit,3,1,0,1,1,,1,0,1,0,0,,viewdistance=9|speed=316,Guan dao
+apricot,3,1,0,1,1,,1,0,1,0,0,,viewdistance=6|speed=328,Manriki-gusari
+cashew,5,1,0,1,1,FARMLAND,1,0,1,0,0,,viewdistance=11|speed=387,pear
+apple,1,1,0,1,1,,1,0,1,0,0,,viewdistance=5|speed=499,Kard
+banana,4,1,0,1,1,,1,0,1,0,0,,viewdistance=4|speed=482,Cutlass
+Nzappa zap,1,1,1,1,1,,1,1,0,0,0,,viewdistance=4|speed=281,Combat knife
+Ono,1,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=290,beet
+Poleaxe,3,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=377,banana
+Neko-te,5,1,1,1,1,,1,1,0,0,0,,viewdistance=3|speed=280,Dao
+Ngaw,3,1,1,1,1,,1,1,0,0,0,,viewdistance=9|speed=408,pecan
+Nunchaku,4,1,1,1,1,,1,1,0,0,0,,viewdistance=7|speed=455,Tomahawk
+Otta,4,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=410,War hammer
+Pata,5,1,1,1,1,,1,1,0,0,0,,viewdistance=6|speed=265,Kilij
+Pata,5,1,1,1,1,,1,1,0,0,0,,viewdistance=4|speed=413,Jitte
+Pilum,4,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=345,mango
+Pike,4,1,1,1,1,,1,1,0,0,0,,viewdistance=13|speed=343,banana
+Assegai,3,1,1,1,1,,1,1,0,0,0,,viewdistance=4|speed=432,Monk's Spade
+Pata,1,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=359,Smallsword
+Naginata,2,1,1,1,1,,1,1,0,0,0,,viewdistance=7|speed=331,Kilij
+Morning star,2,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=410,Flanged mace
+Long-bearded axe,3,1,1,1,1,,1,1,0,0,0,,viewdistance=3|speed=382,Flail
+Lochaber axe,3,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=263,Tessen
+Lucerne hammer,1,1,1,1,1,,1,1,0,0,0,,viewdistance=10|speed=292,Kukri
+Longsword,1,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=309,La canne
+Lathi,4,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=293,Waddy
+Kukri,2,1,1,1,1,,1,1,0,0,0,,viewdistance=9|speed=453,Ngaw
+Kubotan,1,1,1,1,1,,1,1,0,0,0,,viewdistance=4|speed=258,chestnut
+La canne,1,1,1,1,1,,1,1,0,0,0,,viewdistance=13|speed=345,Kusari-fundo
+Kusari-fundo,4,1,1,1,1,,1,1,0,0,0,,viewdistance=10|speed=390,Pilum
+Mere,4,1,1,1,1,,1,1,0,0,0,,viewdistance=13|speed=435,Assegai
+Masakari,4,1,1,1,1,,1,1,0,0,0,,viewdistance=10|speed=340,cherry
+Monk's Spade,4,1,1,1,1,,1,1,0,0,0,,viewdistance=7|speed=352,Neko-te
+Meteor Hammer,2,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=421,Shareeravadi
+Manriki-gusari,3,1,1,1,1,,1,1,0,0,0,,viewdistance=7|speed=431,Staff
+Machete,2,1,1,1,1,,1,1,0,0,0,,viewdistance=9|speed=451,Lucerne hammer
+Mace,1,1,1,1,1,,1,1,0,0,0,,viewdistance=4|speed=366,Nzappa zap
+Man catcher,1,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=364,Shillelagh
+Machete,5,1,1,1,1,,1,1,0,0,0,,viewdistance=4|speed=261,Yatagan
+Tomahawk,5,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=363,Sai
+Tekko,5,1,1,1,1,,1,1,0,0,0,,viewdistance=6|speed=466,mucuma
+Taser,5,1,1,1,1,,1,1,0,0,0,,viewdistance=9|speed=277,Schiavona
+Tewhatewha,4,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=276,Machete
+Tessen,5,1,1,1,1,,1,1,0,0,0,,viewdistance=7|speed=456,Kaiken
+Tambo,4,1,1,1,1,,1,1,0,0,0,,viewdistance=6|speed=323,carrot
+Staff,3,1,1,1,1,,1,1,0,0,0,,viewdistance=6|speed=273,Shobo
+Schiavona,2,1,1,1,1,,1,1,0,0,0,,viewdistance=6|speed=316,papaya
+Taiaha,2,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=300,Poleaxe
+Tabar Zin,5,1,1,1,1,,1,1,0,0,0,,viewdistance=9|speed=482,Broadsword
+Yatagan,5,1,1,1,1,,1,1,0,0,0,,viewdistance=9|speed=470,Cestus
+Xiphos,1,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=376,Kubotan
+War hammer,4,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=440,Rapier
+Yatagan,3,1,1,1,1,,1,1,0,0,0,,viewdistance=4|speed=342,Roundhead
+Yari,2,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=310,turnip
+Wakizashi,3,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=431,jicama
+Trident,2,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=421,Machete
+Tonfa,4,1,1,1,1,,1,1,0,0,0,,viewdistance=6|speed=285,Yatagan
+Waddy,4,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=311,Masakari
+Valaska,5,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=267,Katana
+Sai,5,1,1,1,1,,1,1,0,0,0,,viewdistance=10|speed=335,Tewhatewha
+Sai,3,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=436,Mere
+Sarissa,2,1,1,1,1,,1,1,0,0,0,,viewdistance=7|speed=277,mung bean
+Saif,2,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=444,ensete
+Sagaris,3,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=471,Dirk
+Rapier,5,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=281,cashew
+Quarterstaff,3,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=270,apricot
+Roundhead,3,1,1,1,1,,1,1,0,0,0,,viewdistance=6|speed=344,Naginata
+Rapier,3,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=453,Tonfa
+Srbosjek,5,1,1,1,1,,1,1,0,0,0,,viewdistance=7|speed=490,Taser
+Smallsword,5,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=394,Lathi
+Shobo,5,1,1,1,1,,1,1,0,0,0,,viewdistance=10|speed=421,Srbosjek
+Spatha,2,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=467,Hasta
+Smallsword,2,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=378,medlar
+Shillelagh,2,1,1,1,1,,1,1,0,0,0,,viewdistance=9|speed=358,radish
+Scimitar,4,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=426,Smallsword
+Schiavona,5,1,1,1,1,,1,1,0,0,0,,viewdistance=13|speed=475,Tekko
+Shareeravadi,2,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=285,Jian
+Shamshir,1,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=264,Longsword
+Gladius,1,1,1,1,1,,1,1,0,0,0,,viewdistance=6|speed=421,Flame-bladed sword
+Dirk,3,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=290,Quarterstaff
+Dao,4,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=452,quince
+Javelin,3,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=294,breadfruit
+Jian,1,1,1,1,1,,1,1,0,0,0,,viewdistance=4|speed=479,Sarissa
+Dagger,3,1,1,1,1,,1,1,0,0,0,,viewdistance=9|speed=265,Sagaris
+Combat knife,1,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=444,Saif
+Kaiken,2,1,1,1,1,,1,1,0,0,0,,viewdistance=10|speed=331,durian
+Cutlass,4,1,1,1,1,,1,1,0,0,0,,viewdistance=7|speed=280,olive
+Jitte,3,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=495,plum
+Flail,3,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=472,macadamia
+Guan dao,3,1,1,1,1,,1,1,0,0,0,,viewdistance=11|speed=279,Sai
+Flanged mace,2,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=284,lima bean
+Flame-bladed sword,1,1,1,1,1,,1,1,0,0,0,,viewdistance=9|speed=456,Spatha
+Halberd,4,1,1,1,1,,1,1,0,0,0,,viewdistance=6|speed=489,Wakizashi
+Falchion,1,1,1,1,1,,1,1,0,0,0,,viewdistance=3|speed=311,Gladius
+Broadsword,4,1,1,1,1,,1,1,0,0,0,,viewdistance=13|speed=298,almond
+Hasta,1,1,1,1,1,,1,1,0,0,0,,viewdistance=9|speed=384,Trident
+Brass knuckles,5,1,1,1,1,,1,1,0,0,0,,viewdistance=8|speed=420,Lochaber axe
+Kama,2,1,1,1,1,,1,1,0,0,0,,viewdistance=10|speed=292,Chigiriki
+Katana,4,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=301,Otta
+Kilij,2,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=354,lentil
+Kilij,5,1,1,1,1,,1,1,0,0,0,,viewdistance=12|speed=475,Tabar Zin
+Chigiriki,1,1,1,1,1,,1,1,0,0,0,,viewdistance=10|speed=429,fig
+Cestus,5,1,1,1,1,,1,1,0,0,0,,viewdistance=5|speed=258,Pata
+Claymore,1,1,1,1,1,,1,1,0,0,0,,viewdistance=6|speed=475,apple
+Kard,2,1,1,1,1,,1,1,0,0,0,,viewdistance=3|speed=357,Ono
+Scylla,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=264,
+Chicken,1,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=4|speed=283,
+Enfield beast,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=371,
+Shinigami,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=257,
+Sea serpent,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=6|speed=313,
+Selkie,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=335,
+Fallow deer,3,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=12|speed=353,
+sheep,4,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=4|speed=433,
+Yale,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=391,
+Wyvern,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=251,
+Zebu,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=8|speed=391,
+Fucanglong,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=283,
+Fuath,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=3|speed=493,
+Fomorian,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=8|speed=476,
+Red deer,3,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=8|speed=333,
+Roc,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=388,
+Gigantes,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=4|speed=278,
+Satyr,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=6|speed=290,
+Cattle,2,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=11|speed=382,
+Fenghuang,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=6|speed=433,
+Fluffy Bear,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=436,
+Salamander,2,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=9|speed=300,
+Ypotryll,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=11|speed=400,
+Siren,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=8|speed=494,
+Witch,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=4|speed=284,
+Cyclops,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=5|speed=394,
+Water leaper,1,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=10|speed=416,
+Teggie,1,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=9|speed=259,
+Woodwose,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=5|speed=475,
+Tengu,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=4|speed=387,
+Crocotta,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=10|speed=309,
+Chimera,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=10|speed=396,
+Cockatrice,5,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=6|speed=444,
+Clurichaun,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=380,
+Tsurube-otoshi,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=333,
+turkey,2,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=11|speed=454,
+Alpaca,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=11|speed=307,
+duck,1,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=5|speed=480,
+Dryad,2,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=8|speed=351,
+Suzaku,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=3|speed=384,
+Echidna,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=312,
+Buggane,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=467,
+Dullahan,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=11|speed=489,
+Dragon,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=442,
+Donkey,3,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=12|speed=270,
+Wurm,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=10|speed=353,
+Wraith,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=3|speed=284,
+Dragon,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=3|speed=261,
+Dragon,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=3|speed=279,
+Tanuki,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=335,
+bison,5,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=10|speed=367,
+Medusa,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=6|speed=384,
+Melusine,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=296,
+Mephistopheles,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=5|speed=398,
+Madame White Snake,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=8|speed=398,
+Mandragora,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=6|speed=427,
+manticore,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=392,
+Jingwei,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=6|speed=423,
+Jiang Shi,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=11|speed=437,
+Basilisk,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=11|speed=432,
+Nachzehrer,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=11|speed=333,
+Bonnacon,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=429,
+Bloody Bones,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=271,
+Jiaolong,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=278,
+Minotaur,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=5|speed=391,
+Mogwai,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=277,
+Ladon,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=4|speed=442,
+Lamia,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=374,
+Leprechaun,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=483,
+Liderc,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=279,
+Krampus,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=477,
+Kui,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=13|speed=328,
+Kraken,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=6|speed=456,
+Kobold,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=3|speed=366,
+Karkinos,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=311,
+Luduan,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=446,
+Kampe,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=3|speed=422,
+Kallikantzaros,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=4|speed=460,
+Lindworm,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=5|speed=397,
+Llama,1,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=10|speed=386,
+Kelpie,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=11|speed=332,
+Long Mu,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=6|speed=266,
+pig,4,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=4|speed=359,
+Griffin,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=10|speed=265,
+Griffin,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=454,
+Grendel,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=278,
+Balor,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=5|speed=464,
+Hag,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=3|speed=309,
+Pegasus,4,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=9|speed=287,
+Perseus,4,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=4|speed=400,
+Questing Beast,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=434,
+Amphiptere,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=442,
+Alphyn,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=11|speed=451,
+goat,4,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=10|speed=390,
+Gorgon,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=10|speed=454,
+goose,1,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=8|speed=349,
+Python,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=438,
+Goblin,5,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=8|speed=478,
+Nine-headed Bird,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=12|speed=271,
+Niu Mo Wang,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=8|speed=480,
+Huli jing,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=10|speed=412,
+Horse,5,1,0,0,1,,0,0,0,1,0,aifunc_random,viewdistance=12|speed=313,
+Imp,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=7|speed=294,
+Nemean Lion,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=6|speed=484,
+Hydra,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=8|speed=492,
+Nian,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=481,
+Hippocamp,4,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=258,
+Ouroboros,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=8|speed=427,
+Hecatonchires,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=9|speed=426,
+Harpy,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=10|speed=372,
+Ogre,3,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=13|speed=367,
+Banshee,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=8|speed=373,
+Hippogriff,2,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=6|speed=290,
+Orthus,1,1,0,0,1,,0,0,0,1,1,aifunc_random,viewdistance=4|speed=497,

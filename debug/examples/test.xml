@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<rootNode>
+	<name id="firsttag">John</name>
+	<greeting id="secondtag">John</greeting>
+</rootNode>
